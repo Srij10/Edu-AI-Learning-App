@@ -1,0 +1,6 @@
+{
+  "name": "AKademy38 AI Learning System",
+  "description": "An interactive AI-powered learning application with personalized quiz generation, AI tutor discussion, and customized students report builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
